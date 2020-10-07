@@ -1,25 +1,8 @@
 {
     "logs": [
         {
-            "outputFile": "C:\\Users\\asus\\Desktop\\attendance\\build\\app\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values\\values.xml",
+            "outputFile": "C:\\Users\\asus\\Desktop\\attendanceApp\\build\\app\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values\\values.xml",
             "map": [
-                {
-                    "source": "C:\\Users\\asus\\Desktop\\attendance\\build\\app\\generated\\res\\google-services\\debug\\values\\values.xml",
-                    "from": {
-                        "startLines": "2,3,4,5,6,7,8,9",
-                        "startColumns": "4,4,4,4,4,4,4,4",
-                        "startOffsets": "55,199,323,405,509,618,738,851",
-                        "endColumns": "143,123,81,103,108,119,112,89",
-                        "endOffsets": "194,318,400,504,613,733,846,936"
-                    },
-                    "to": {
-                        "startLines": "104,105,106,107,108,109,110,111",
-                        "startColumns": "4,4,4,4,4,4,4,4",
-                        "startOffsets": "7730,7874,7998,8080,8184,8293,8413,8526",
-                        "endColumns": "143,123,81,103,108,119,112,89",
-                        "endOffsets": "7869,7993,8075,8179,8288,8408,8521,8611"
-                    }
-                },
                 {
                     "source": "C:\\Users\\asus\\.gradle\\caches\\transforms-2\\files-2.1\\405a42316ecc437dc907853872a2f8e5\\jetified-play-services-basement-17.0.0\\res\\values\\values.xml",
                     "from": {
@@ -57,7 +40,24 @@
                     }
                 },
                 {
-                    "source": "C:\\Users\\asus\\Desktop\\attendance\\android\\app\\src\\main\\res\\values\\styles.xml",
+                    "source": "C:\\Users\\asus\\Desktop\\attendanceApp\\build\\app\\generated\\res\\google-services\\debug\\values\\values.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9",
+                        "startColumns": "4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,199,323,405,509,618,738,851",
+                        "endColumns": "143,123,81,103,108,119,112,89",
+                        "endOffsets": "194,318,400,504,613,733,846,936"
+                    },
+                    "to": {
+                        "startLines": "104,105,106,107,108,109,110,111",
+                        "startColumns": "4,4,4,4,4,4,4,4",
+                        "startOffsets": "7730,7874,7998,8080,8184,8293,8413,8526",
+                        "endColumns": "143,123,81,103,108,119,112,89",
+                        "endOffsets": "7869,7993,8075,8179,8288,8408,8521,8611"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\asus\\Desktop\\attendanceApp\\android\\app\\src\\main\\res\\values\\styles.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
